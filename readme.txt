@@ -6,8 +6,9 @@ All the code was tested on RStudio Version 4.3.1 on MacOS Ventura 13.5 with a 3.
 
 Installation guide & Demo
 Install RStudio software and open the code "SV2A_propagation_simulation.Rmd"
-Set the path to the Python interpreter under the virtual environment or Conda environment with reticulate package
-Store "simulation_rmd/schaefer200x7CommunityAffiliation_corrected.txt" under specific folder and load
+Set the path to the Python interpreter under the virtual environment or Conda environment with reticulate package.
+Install "netneurotools" and "neuromaps" toolboxes by "reticulate::py_install" function if necessary.
+Store "simulation_rmd/schaefer200x7CommunityAffiliation_corrected.txt" under specific folder and load it.
 Expected run time is about 30 minutes on MacOS Ventura 13.5
 
 
