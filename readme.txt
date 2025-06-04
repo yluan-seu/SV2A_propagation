@@ -11,6 +11,5 @@ Install "netneurotools" and "neuromaps" toolboxes by "reticulate::py_install" fu
 Store "simulation_rmd/schaefer200x7CommunityAffiliation_corrected.txt" under specific folder and load it.
 Expected run time is about 30 minutes on MacOS Ventura 13.5
 
-
 An example output in html format is shown in the file "SV2A_propagation_simulation_example_output.html"
 
