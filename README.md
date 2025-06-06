@@ -1,4 +1,4 @@
-The code SV2A_propagation_simulation.Rmd with simulated data and processed can be run to replicate the major analyses of the article:
+The code SV2A_propagation_simulation.Rmd with simulated data can be run to replicate the major analyses of the article:
 Luan et al., Synaptic loss pattern is constrained by brain connectome and modulated by phosphorylated tau in Alzheimer’s disease
 
 System requirements:
